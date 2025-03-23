@@ -18,7 +18,7 @@ memory-card-game
 ## 📸 Project Preview
 Below is a preview of the game:
 
-![Memory Card Game Preview](preview/preview.mp4)
+![Memory Card Game Preview](preview/preview.gif)
 
 ## 🛠 Tech Stack
 
